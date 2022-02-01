@@ -1,0 +1,11 @@
+pytimeextractor==0.1.4
+opencv-python
+pytesseract
+regex
+AST
+numpy
+pillow
+pythonRLSA==0.0.2
+Cython 
+flask
+pyjnius==1.4.1
